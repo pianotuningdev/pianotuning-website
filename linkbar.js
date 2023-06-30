@@ -6,7 +6,7 @@ function insertLinkbar() {
   }
 
   var linkbarHTML = '<div class="linkbar">' +
-  '<a href="about.html">About</a>' +
+  '<a href="index.html">About</a>' +
   '<a href="services.html">Services</a>' +
   '<a href="contact.html">Contact</a>' +
   '<a href="links.html">Links</a>' +
