@@ -30,9 +30,9 @@ a:visited {
 }
 
 main {
-	margin-left: 200px; /*Adjust the margin to match the width of the linkbar */
+	margin-left: 250px; /*Adjust the margin to match the width of the linkbar */
 	padding: 30px;
-	box-sizing: boarder-box;
+	box-sizing: border-box;
 }
 
 .container {
@@ -45,6 +45,8 @@ main {
 	left: 0;
 	top: 0;
 	height: 100%;
+	width: 250px;
+	text-align: center;
 	background-color: #333;
 	color: #fff;
 	padding: 30px;
@@ -56,11 +58,12 @@ main {
 	margin-bottom: 20px;
 	color: #fff;
 	text-decoration: none;
+	font-size: 20px;
 }
 
 footer {
 	margin-top: auto;
-  background-color: f2f2f2;
+  background-color: #1e1e1e;
   padding: 10px;
   color:#333;
   text-align: center;
